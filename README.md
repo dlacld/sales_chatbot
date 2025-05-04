@@ -42,9 +42,7 @@ python sales_chatbot.py
 
 ## 运行页面案例
 
-![Clipboard_Screenshot_1746330129](/tmp/iOALog/.new_Clipboard/Clipboard_Screenshot_1746330129.png)
-
-
+![sample_car_pic](images/sample_car_pic.png)
 
 ## 许可证
 
