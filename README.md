@@ -24,7 +24,7 @@ Multi Scenario-Chatbot 是一个使用 AI LLM结合 RAG 技术 实现基于不�
 
 1.克隆仓库 `git clone `
 
-2.需要 Python 3.10 或更高版本
+2.需要 Python 3.10 或更高版本，使用 pip install  提前安装依赖项
 
 3.默认使用OpenAI LLM gpt-3.5-turbo 进行调用
 
